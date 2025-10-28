@@ -1,0 +1,5 @@
+{
+  "name": "Interactive Solar System",
+  "description": "A visually rich and interactive 2D simulation of our solar system, showcasing planetary orbits and details. Built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
